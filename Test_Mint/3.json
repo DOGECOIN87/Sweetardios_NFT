@@ -1,0 +1,27 @@
+{
+    "name": "Sweetardio #3",
+    "description": "A generative test mint for Sweetardios NFT collection.",
+    "image": "ipfs://CID/3.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "matt210-2 (12).webp"
+        },
+        {
+            "trait_type": "Face",
+            "value": "matt210-3 (5).png"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "file_00000000879871f5b996ee9c04d5303e-removebg-preview.png"
+        },
+        {
+            "trait_type": "Character",
+            "value": "matt210-4 (24).png"
+        },
+        {
+            "trait_type": "Sticker",
+            "value": "file_000000006afc71f88c382879a157e1b6.png"
+        }
+    ]
+}

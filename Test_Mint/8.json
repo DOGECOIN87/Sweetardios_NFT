@@ -1,0 +1,27 @@
+{
+    "name": "Sweetardio #8",
+    "description": "A generative test mint for Sweetardios NFT collection.",
+    "image": "ipfs://CID/8.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "matt210-2 (28).webp"
+        },
+        {
+            "trait_type": "Face",
+            "value": "matt210-3 (30).png"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "file_00000000879871f5b996ee9c04d5303e-removebg-preview.png"
+        },
+        {
+            "trait_type": "Character",
+            "value": "warped-ChatGPT_Image_May_2__2026__11_31_50_PM-removebg-preview.png.png"
+        },
+        {
+            "trait_type": "Sticker",
+            "value": "png-clipart-character-television-show-drawing-regular-show-television-cartoon-thumbnail-removebg-preview.png"
+        }
+    ]
+}
