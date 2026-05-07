@@ -1,0 +1,27 @@
+{
+    "name": "Layered Sweetardio #4",
+    "description": "A layered generative test mint for Sweetardios NFT collection.",
+    "image": "ipfs://CID/4.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "matt210-5.webp"
+        },
+        {
+            "trait_type": "Character",
+            "value": "warped-matt210-6__26_-removebg-preview.png (1).png"
+        },
+        {
+            "trait_type": "Face",
+            "value": "matt210-3 (14).png"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "file_00000000879871f5b996ee9c04d5303e-removebg-preview.png"
+        },
+        {
+            "trait_type": "Stickers",
+            "value": "images__25_-removebg-preview.png"
+        }
+    ]
+}
