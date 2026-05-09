@@ -22,7 +22,7 @@ os.makedirs(OUT, exist_ok=True)
 CANVAS_SIZE = (1343, 1343)
 COLLECTION_NAME = "Sweetardios"
 BATCH_SIZE = 20
-SEED = 256  # fresh combinations including the new Kawaii/Sparkle/Doe faces
+SEED = 314  # batch with skin-color-unified faces
 
 # Layer order requested by user: background, character, Face, sticker
 LAYERS = [
