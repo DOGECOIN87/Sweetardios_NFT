@@ -22,7 +22,7 @@ os.makedirs(OUT, exist_ok=True)
 CANVAS_SIZE = (1343, 1343)
 COLLECTION_NAME = "Sweetardios"
 BATCH_SIZE = 20
-SEED = 999  # batch with replaced character set
+SEED = 1010  # batch with updated Doe
 
 # Layer order requested by user: background, character, Face, sticker
 LAYERS = [
